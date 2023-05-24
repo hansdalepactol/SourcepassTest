@@ -1,0 +1,1 @@
+select * from tblUser where UserID = '@_userID'
